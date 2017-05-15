@@ -14,11 +14,14 @@
     "vue",
     "vuejs",
     "vue2",
-    "Facebook",
+	"Facebook",
+	"login",
+    "fb",
     "Bootstrap",
     "Bootstrap vue",
     "component",
-    "Facebook login"
+    "Facebook login vue",
+    "fb login vue"
   ],
   "author": "Jose Javier Espinoza",
   "license": "MIT",
