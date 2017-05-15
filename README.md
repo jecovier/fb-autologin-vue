@@ -1,5 +1,7 @@
 # FB Auto Login for VUE 2
-this component initialize FB SDK and show the login pop up.
+this component initialize the Facebook SDK and show the login pop up to the user.
+It has a event when the user is login and three slots to show a different message
+depending on the connection status.
 
 ## ✔ Getting started
 
@@ -21,8 +23,14 @@ In your HTML call it like
 ```html
 <fb-login
 	@login = "login_callback">
-	<template slot="not-login">
-		you are not login
+	<template slot="check-login">
+		connecting...
+	</template>
+	<template slot="cancelled">
+		user cancelled the login
+	</template>
+	<template slot="logged">
+		Welcome!
 	</template>
 </fb-login>
 ```
