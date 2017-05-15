@@ -1,0 +1,29 @@
+{
+  "name": "fb-autologin-vue",
+  "version": "0.0.1",
+  "description": "A Facebook login component for Vue 2",
+  "main": "FB_autologin.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jecovier/fb-autologin-vue.git"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "vue2",
+    "Facebook",
+    "Bootstrap",
+    "Bootstrap vue",
+    "component",
+	"Facebook login"
+  ],
+  "author": "Jose Javier Espinoza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jecovier/fb-autologin-vue/issues"
+  },
+  "homepage": "https://github.com/jecovier/fb-autologin-vue#readme",
+}
