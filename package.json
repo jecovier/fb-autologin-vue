@@ -1,6 +1,6 @@
 {
   "name": "fb-autologin-vue",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Facebook login component for Vue 2",
   "main": "FB_autologin.vue",
   "scripts": {
@@ -18,7 +18,7 @@
     "Bootstrap",
     "Bootstrap vue",
     "component",
-	"Facebook login"
+    "Facebook login"
   ],
   "author": "Jose Javier Espinoza",
   "license": "MIT",
