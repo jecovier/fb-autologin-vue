@@ -1,5 +1,5 @@
 {
-  "name": "facebook-login-vue",
+  "name": "fb-autologin-vue",
   "version": "0.0.4",
   "description": "A Facebook login component for Vue 2",
   "main": "FB_autologin.vue",
